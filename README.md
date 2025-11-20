@@ -32,6 +32,7 @@ pkg install ffmpeg -y
 ```
 ```sh
 git clone https://github.com/SRGilang21/pdf
+```
 ---
 
 # 2. MASUK KE FOLDER PROJECT
