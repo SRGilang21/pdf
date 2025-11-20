@@ -75,7 +75,7 @@ Struktur minimal yang harus ada:
 wa/
 ├── auth/                -> folder untuk menyimpan sesi WhatsApp (jangan hapus)
 ├── node_modules/        -> folder module otomatis dari npm
-├── main.js              -> file utama bot
+├── index.js              -> file utama bot
 ├── package.json
 ├── package-lock.json
 └── README.md
@@ -91,7 +91,7 @@ cd wa
 Jalankan bot:
 
 ```sh
-node main.js
+node index.js
 ```
 
 Setelah itu:
